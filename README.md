@@ -25,12 +25,6 @@ To get started with WordMaster, follow these steps:
     cd WordMasterGameJava
     ```
 
-3. Install the required dependencies:
-
-    ```bash
-    npm install
-    ```
-
 4. Open the project in your preferred Java IDE.
 5. Compile and run the main class `WordMasterGame.java`.
 6. Start playing WordMaster in single-player mode and challenge yourself to find the right word within 10 tries. Enjoy unlimited playtime without any restrictions.
