@@ -29,15 +29,15 @@ To get started with WordMaster, follow these steps:
 5. Compile and run the main class `WordMasterGame.java`.
 6. Start playing WordMaster in single-player mode and challenge yourself to find the right word within 10 tries. Enjoy unlimited playtime without any restrictions.
 
-### Contributing
+## Contributing
 
 Contributions are welcome! If you have any ideas, bug fixes, or new features to propose, please submit a pull request. Make sure to follow the contribution guidelines and maintain a respectful and collaborative environment.
 
-### License
+## License
 
 The WordMaster Game is licensed under the MIT License. See [LICENSE](LICENSE) for more information.
 
-### Acknowledgments
+## Acknowledgments
 
 - Special thanks to the developers and contributors of the libraries and frameworks used in this project.
 - Hat tip to the open-source community for providing valuable resources and inspiration.
