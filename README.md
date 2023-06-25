@@ -9,7 +9,7 @@ WordMaster is a captivating word game that challenges your vocabulary skills and
 - **Unlimited Playtime:** Enjoy playing WordMaster for free and without any time restrictions.
 - **Word Appreciation:** Receive appreciation for your wins and accomplishments.
 
-### Getting Started
+## Getting Started
 
 To get started with WordMaster, follow these steps:
 
