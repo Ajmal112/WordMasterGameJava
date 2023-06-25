@@ -35,7 +35,7 @@ Contributions are welcome! If you have any ideas, bug fixes, or new features to 
 
 ## License
 
-The WordMaster Game is licensed under the MIT License. See [LICENSE](LICENSE) for more information.
+The WordMaster Game is licensed under the MIT License. See [MIT License](MIT.readme) for more information.
 
 ## Acknowledgments
 
