@@ -1,6 +1,6 @@
 # WordMaster Game
 
-[![SonarCloud Bugs](https://img.shields.io/badge/SonarCloud%20Bugs-0%20Bugs-Red)](https://sonarcloud.io/summary/overall?id=Ajmal112_WordMasterGameJava)
+[![SonarCloud Bugs](https://img.shields.io/badge/SonarCloud%20Bugs-0%20Bugs-Red)]
 
 
 
