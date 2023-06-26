@@ -1,6 +1,7 @@
 # WordMaster Game
 
-[![SonarCloud Bugs](https://img.shields.io/badge/SonarCloud%20Bugs-0%20Bugs-Red)]
+[![SonarCloud Bugs](https://img.shields.io/badge/SonarCloud%20Bugs-0%20Bugs-Red)] [![SonarCloud Vulnerabilities](https://img.shields.io/badge/SonarCloud%20Vulnerabilities-0%20Vulnerabilities-brightgreen)]
+
 
 
 
