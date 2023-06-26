@@ -1,0 +1,23 @@
+name: SonarCloud Analysis
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  sonarcloud:
+    name: SonarCloud
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: SonarCloud analysis
+        uses: sonarsource/sonarcloud-github-action@v1
+        env:
+          SONAR_TOKEN: ${{ secrets.SONAR_TOKEN }}
