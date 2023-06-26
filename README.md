@@ -1,6 +1,6 @@
 # WordMaster Game
 
-[![Code Quality](https://img.shields.io/badge/dynamic/json?label=Code%20Quality&query=%24.bugs&url=https%3A%2F%2Fsonarcloud.io%2Fapi%2Fproject_badges%2Fmeasure%3Fproject%3Dyour-project-key%26metric%3Dbugs)](https://sonarcloud.io/dashboard?id=your-project-key)
+[![Code Quality](https://img.shields.io/badge/dynamic/json?label=Code%20Quality&query=%24.bugs&url=https%3A%2F%2Fsonarcloud.io%2Fapi%2Fproject_badges%2Fmeasure%3Fproject%3Dajmal112%26metric%3Dbugs)](https://sonarcloud.io/dashboard?id=ajmal112)
 
 
 WordMaster is a captivating word game that challenges your vocabulary skills and strategic thinking. Explore a world of letters and words as you solve puzzles, unravel anagrams, and compete against friends or AI opponents. With multiple game modes, difficulty levels, and a vast collection of word challenges, WordMaster guarantees hours of addictive and educational fun. Sharpen your linguistic prowess, expand your vocabulary, and become the ultimate WordMaster in this thrilling word gaming adventure!
