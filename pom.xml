@@ -17,8 +17,20 @@
                 <target>1.8</target>
             </configuration>
         </plugin>
+      <plugin>
+  <groupId>org.sonarsource.scanner.maven</groupId>
+  <artifactId>sonar-maven-plugin</artifactId>
+  <version>3.9.0.2155</version>
+</plugin>
     </plugins>
   </build>
+
+  <properties>
+  <!-- ... -->
+  <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+  <sonar.projectKey>Ajmal112</sonar.projectKey>
+  <sonar.organization>Mohammed Ajmal</sonar.organization>
+</properties>
   
   
     <distributionManagement>
