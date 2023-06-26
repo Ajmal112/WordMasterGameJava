@@ -1,6 +1,6 @@
 # WordMaster Game
 
-![SonarCloud Bugs](https://img.shields.io/badge/SonarCloud%20Bugs-0%20Bugs-Red) ![SonarCloud Vulnerabilities](https://img.shields.io/badge/SonarCloud%20Vulnerabilities-0%20Vulnerabilities-brightgreen) ![SonarCloud Code Smells](https://img.shields.io/badge/SonarCloud%20Code%20Smells-31%20Code%20Smells-yellow) ![SonarCloud Security Hotspots](https://img.shields.io/badge/SonarCloud%20Security%20Hotspots-0%20Security%20Hotspots-brightgreen) ![SonarCloud Duplications](https://img.shields.io/badge/SonarCloud%20Duplications-0.0%25-lightgrey)
+![SonarCloud Bugs](https://img.shields.io/badge/SonarCloud%20Bugs-0%20Bugs-Red) ![SonarCloud Vulnerabilities](https://img.shields.io/badge/SonarCloud%20Vulnerabilities-0%20Vulnerabilities-brightgreen) ![SonarCloud Code Smells](https://img.shields.io/badge/SonarCloud%20Code%20Smells-31%20Code%20Smells-yellow) ![SonarCloud Security Hotspots](https://img.shields.io/badge/SonarCloud%20Security%20Hotspots-0%20Security%20Hotspots-brightgreen) ![SonarCloud Duplications](https://img.shields.io/badge/SonarCloud%20Duplications-0.0%25-brightgreen)
 
 
 
