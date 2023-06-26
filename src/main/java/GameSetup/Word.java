@@ -1,6 +1,6 @@
 package GameSetup;
 
-import java.util.Random;
+import java.security.SecureRandom;
 
 public class Word {
 
@@ -28,7 +28,7 @@ public class Word {
 	
 	private String selectedWords;
 	
-	private Random random = new Random();
+	private SecureRandom random = new SecureRandom();
 	
 	private char[] letters;
 	
